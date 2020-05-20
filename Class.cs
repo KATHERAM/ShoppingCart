@@ -7,5 +7,6 @@ namespace Devops
 {
     public class Class
     {
+        console.wrtiteline("hello")
     }
 }
