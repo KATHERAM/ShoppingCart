@@ -7,6 +7,6 @@ namespace Devops
 {
     public class Class
     {
-        
+       
     }
 }
