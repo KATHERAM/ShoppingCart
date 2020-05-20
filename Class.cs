@@ -7,6 +7,6 @@ namespace Devops
 {
     public class Class
     {
-       string name="vishnu";
+    
     }
 }
